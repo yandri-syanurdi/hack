@@ -1,0 +1,80 @@
+Okay friends, on this occasion, I will give you about how to upload Project to Github. As for how to upload Project to Github:
+1. Download and Install Git
+2. Create a Github Account
+3. Click the profile in the far right corner then select your repositories
+then click new
+4. Open Project then right click the projetc
+ then select git bash here
+
+5. type git config --global user.name "..." (your github account user name)
+6. type git config --global user.email "...." (email your github account)
+7. type git init
+8.git status
+9.git add . or git add
+10.git commit -m "P" (which in quotes is up to you)
+11.git remote add origin https: .........
+12.git push origin master.
+For those who want to watch how to create a github account please. Watch it here https://youtu.be/Y3GdtzgvI_0
+
+
+
+
+
+git config http.postBuffer 524288000
+git config --global http.postBuffer 100000000
+git config --global http.postBuffer 2000000000
+git config --global http.postBuffer 157286400
+git config --global http.postBuffer 157286400
+
+git config --global http.postBuffer 524288000
+
+git gc --aggressive
+
+git remote remove origin
+git remote add origin https://github..com/user/repo
+git push --set-upstream origin master
+
+Enjoy watching
+May be useful
+#abdulakhyar #github #project
+
+git remote add origin https://github.com/yandri-syanurdi/SimpleLaravelCrud.git
+
+
+git config --global user.name "yandri-syanurdi"
+git config --global user.email "yandri.syanurdi12@gmail.com"
+git init
+git status
+git add .
+git commit -m "Template Web Sekolah"
+git remote add origin https://github.com/yandri-syanurdi/TemplateWebSekolah.git
+git push origin master
+
+
+//baru 
+git init
+git remote add origin https://github.com/yandri-syanurdi/yandri-syanurdi.github.io.git
+git remote
+clear
+git status
+git add .
+git status
+git commit -m "initial commit"
+git status
+git push -u origin master
+git status
+clear
+
+// baru lagi (tambahan)
+cd ..
+ls
+cd hack
+git init
+git status
+git add .
+git status
+git commit -m "initial commit"
+git status // bikin repository (repo) lagi
+git remote add origin https://github.com/yandri-syanurdi/hack.git
+git push -u origin master
+git status
